@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: reactive-tickets
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: supportpalmyra
+Implementation-Vendor-Id: com.reactive.tickets
+Build-Jdk: 1.8.0_60
+Implementation-URL: http://projects.spring.io/spring-boot/reactive-tic
+ kets/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
